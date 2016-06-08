@@ -25,4 +25,3 @@ Install through npm to take advantage of future updates:
 ## License
 
 MIT. You can use Bantam Grid as you see fit.
-# bantam-grid
